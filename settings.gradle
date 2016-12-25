@@ -1,0 +1,2 @@
+include ':app', ':button'
+project(':button').projectDir = new File('library')
